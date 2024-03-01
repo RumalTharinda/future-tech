@@ -1,0 +1,17 @@
+
+/* 
+    Created on : Apr 25, 2023, 12:03:03 AM
+    Author     : rumal
+*/
+
+.sidebar-nav .nav-content a i {
+    font-size: 15px !important;
+    margin-right: 8px;
+    line-height: 0;
+    border-radius: 50%;
+}
+
+.logo img {
+    max-height: 35px !important;
+    margin-right: 6px;
+}
